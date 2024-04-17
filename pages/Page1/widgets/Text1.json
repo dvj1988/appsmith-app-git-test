@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 13,
-    "bottomRow": 17,
+    "topRow": 2,
+    "bottomRow": 6,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 16.390625,
-    "leftColumn": 0,
+    "leftColumn": 5,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
     "key": "lvfzspy6fn",
     "isDeprecated": false,
-    "rightColumn": 7,
+    "rightColumn": 12,
     "thumbnailSVG": "/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
